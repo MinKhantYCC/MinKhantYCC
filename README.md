@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MinKhantYCC
-- 👀 I’m interested in Electronics, AI and Computer Vision Projects
-- 🌱 I’m currently learning Power Electronics, Microcontroller, IOT and Machining Learning
-- 💞️ I’m looking to collaborate on Electronics Projects.
-- 📫 You can contact me freely at linyaungzin99@gmail.com
+- 👀 I’m interested in AI and Robotic engineering.
+- 🌱 I’m currently working in a Japanese IT company and studying AI in advance.
+- 💞️ I’m looking to collaborate on AI and robotic Projects.
 
 <!---
 MinKhantYCC/MinKhantYCC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
