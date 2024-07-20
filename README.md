@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MinKhantYCC
 - 👀 I’m interested in AI and Robotic engineering.
-- 🌱 I’m currently working in a Japanese IT company and studying AI in advance.
+- 🌱 I’m working in an IT company and studying AI in advance.
 - 💞️ I’m looking to collaborate on AI and robotic Projects.
 
 <!---
